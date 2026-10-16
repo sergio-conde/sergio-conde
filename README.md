@@ -45,11 +45,11 @@ Single-cell miniscope calcium imaging in the **prelimbic and infralimbic cortex*
 during a Go/No-Go task: responsive-cell detection, population trajectories,
 dPCA and decoding of task variables.
 
-**[behavior-medpc](https://github.com/Willuhn-Group/behavior-medpc)**  
+**[behavior-medpc](https://github.com/Willuhn-Group/behavior_medpc)**  
 Toolbox to turn raw Med-PC (Med Associates) files into trial-by-trial behavioral
 data: trials, events, latencies, bouts and histograms. Used across lab projects.
 
-**[matlab-utilities](https://github.com/Willuhn-Group/matlab-utilities)**  
+**[matlab-utilities](https://github.com/Willuhn-Group/matlab_utilities)**  
 Shared MATLAB helpers for project file management and plotting.
 
 [Google Scholar](https://scholar.google.com/citations?user=MlP-zs0AAAAJ)
